@@ -13,4 +13,4 @@ Therefore basic stuff may not work. Project roadmap is unavailable either.
 
 # License
 
-[MIT](https://github.com/keeweb/keeweb/blob/master/LICENSE.txt)
+[MIT](https://github.com/popoway/pc-portal/blob/master/LICENSE)
