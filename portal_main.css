@@ -1,6 +1,6 @@
 /*!
  *  popowayCloud Portal Interface Cascading Style Sheets
- *  (C) 2017 popoway. All rights reserved.
+ *  (C) 2019 popoway. All rights reserved.
  */
 
     body {
@@ -8,7 +8,7 @@
         margin: 0;
         padding: 0;
         font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        
+
     }
     div {
         width: 600px;
@@ -40,5 +40,5 @@
         }
     }
     .centeralign {
-	   text-align: center; 
+	   text-align: center;
     }
