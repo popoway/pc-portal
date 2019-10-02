@@ -95,3 +95,19 @@ footer .copyright {
 #owa-tracker-post-container {
   display: none;
 }
+a.more {
+  color: #0070c9;
+}
+.more:active, .more:hover {
+  text-decoration: underline;
+  color: #0070c9;
+}
+.more::after {
+  content: " ⇢";
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  padding-left: .3em;
+  top: 0;
+}
